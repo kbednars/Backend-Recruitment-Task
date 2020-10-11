@@ -22,6 +22,6 @@ And for the recruiter2 account, you should change username for *recruiter2*.
 To logout from account go to */account/logut* end-point.
 
 ## Required end-points
-First one was the form to allow grading tasks by recruiters. It is avaivable on *grades/api/add-mark* end-point. Forms checks if task for the specific candidate has been graded. In the Recruiter ForeignKey field, the PrimaryKey of the user, who is currently signed in, is saved.
+First one was the form to allow grading tasks by recruiters. It is avaivable on *grades/api/add-mark* end-point. Forms checks if task for the specific candidate has been graded. In the Recruiter ForeignKey field, the PrimaryKey of the user, who is currently logged in, is saved.
 
 The second end-point is available on */grades/summary*, and it provides a summary of the grades for all of the candidates.
