@@ -1,0 +1,7 @@
+venv/
+.idea/
+recruitTask/grades/migrations
+recruitTask/account/migrations
+recruitTask/account/__pycache__
+recruitTask/grades/__pycache__
+recruitTask/recruitTask/__pycache__
