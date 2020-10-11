@@ -25,7 +25,7 @@ SECRET_KEY = 'q=6_vf6$^7v*y!m%^zxm_v05+#$j*sgtt0a1lj16xc=vzgh$7e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [https://backend-recruitment-task.herokuapp.com/]
+ALLOWED_HOSTS = ['https://backend-recruitment-task.herokuapp.com/']
 
 
 # Application definition
